@@ -1,5 +1,7 @@
 # OOP FINAL REVISION
 
+Compilation of revision questions. Open to contribute
+
 ## Questions
 
 ### Question 3
